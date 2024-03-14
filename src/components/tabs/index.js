@@ -19,6 +19,7 @@ import InfinityChallengesTab from "./infinity-challenges/InfinityChallengesTab";
 import InfinityDimensionsTab from "./infinity-dimensions/InfinityDimensionsTab";
 import InfinityUpgradesTab from "./infinity-upgrades/InfinityUpgradesTab";
 import LaitelaTab from "./celestial-laitela/LaitelaTab";
+import QmvbuDimensionsTab from "./qmvbu-dimensions/QmvbuDimensionsTab";
 import MultiplierBreakdownTab from "./statistics/MultiplierBreakdownTab";
 import NormalAchievementsTab from "./normal-achievements/NormalAchievementsTab";
 import NormalChallengesTab from "./normal-challenges/NormalChallengesTab";
@@ -43,6 +44,7 @@ import TimeStudiesTab from "./time-studies/TimeStudiesTab";
 import VTab from "./celestial-v/VTab";
 
 const TabComponents = {
+  QmvbuDimensionsTab,
   AntimatterDimensionsTab,
   InfinityDimensionsTab,
   TimeDimensionsTab,

@@ -15,6 +15,14 @@ export const tabs = [
         hidable: true,
       },
       {
+        key: "qmvbu",
+        name: "Qmvbu Dimensions",
+        symbol: "Q",
+        component: "QmvbuDimensionsTab",
+        id: 0,
+        hidable: true,
+      },
+      {
         key: "infinity",
         name: "Infinity Dimensions",
         hideAt: 2.7,
